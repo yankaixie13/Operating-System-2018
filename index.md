@@ -2,3 +2,4 @@
 
 ### 课程文件 
 
+[Chapter1a-cryptography-SHORT.pdf](https://github.com/yankaixie13/Operating-System-2018/blob/master/Chapter1a-cryptography-SHORT.pdf)
