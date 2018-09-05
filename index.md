@@ -14,4 +14,7 @@
 
 ### 实验相关材料
 
+#### 实验指导书
+
+[实验指导书](https://github.com/yankaixie13/Operating-System-2018/tree/master/Labs/The-book-of-OS-experiment)
 
