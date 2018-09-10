@@ -18,3 +18,15 @@
 
 [实验指导书](https://github.com/yankaixie13/Operating-System-2018/tree/master/Labs/The-book-of-OS-experiment)
 
+#### 实验指导视频
+
+[实验视频](https://github.com/yankaixie13/Operating-System-2018/tree/master/Labs/Video)
+
+#### 实验工具
+
+[实验工具](https://github.com/yankaixie13/Operating-System-2018/blob/master/Labs/Experimental-tool/Experimental-virtual-machine)
+
+#### 往届优秀实验报告例子
+
+[往届优秀实验报告例子](https://github.com/yankaixie13/Operating-System-2018/blob/master/Labs/Example-lab1-report.pdf)
+
