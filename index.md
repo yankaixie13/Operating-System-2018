@@ -2,7 +2,8 @@
 
 ### 课程PPT(持续更新)
 
-[01-Overview-2018.9.4.pdf](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/01-Overview-2018.9.4.pdf)
+[01-Overview-2018.9.4.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/01-Overview-2018.9.4.rar)
+[02-OS Intro-2018.9.7.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/02-OS%20Intro-2018.9.7.rar)
 
 ### 课程参考资料
 
