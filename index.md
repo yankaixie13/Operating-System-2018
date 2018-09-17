@@ -6,6 +6,8 @@
 
 [02-OS Intro-2018.9.7.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/02-OS%20Intro-2018.9.7.rar)
 
+[03-HardwareSupport-2018.9.18.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/03-HardwareSupport-2018.9.18.rar)
+
 ### 课程参考资料
 
 [参考书籍](https://github.com/yankaixie13/Operating-System-2018/tree/master/Textbooks)
