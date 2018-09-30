@@ -10,6 +10,10 @@
 
 [04-Process Concept-2018.9.25.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/04-Process%20Concept-2018.9.25.rar)
 
+[05-Thread & IPC-2018.9.28.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/05-Thread%20%26%20IPC-2018.9.28.rar)
+
+[06-Process Schedule-2018.9.30.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/06-Process%20Schedule-2018.9.30.rar)
+
 ### 课程参考资料
 
 [参考书籍](https://github.com/yankaixie13/Operating-System-2018/tree/master/Textbooks)
