@@ -40,6 +40,10 @@
 
 [往届优秀实验报告例子](https://github.com/yankaixie13/Operating-System-2018/blob/master/Labs/Example-lab1-report.pdf)
 
+#### 10.19更新部分
+
+[10.19更新部分](https://github.com/yankaixie13/Operating-System-2018/blob/master/Labs/10.19%E7%9B%B8%E5%85%B3%E6%9D%90%E6%96%99.zip)
+
 ### Homework
 
 [Homework-1-Part%201.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/Homework-1-Part%25201.rar)
