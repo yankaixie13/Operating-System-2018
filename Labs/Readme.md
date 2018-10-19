@@ -15,7 +15,7 @@
 如果是自己配置实验环境，实验所需基本软件可在实验指导书上查找，实验代码可从https://github.com/chyyuu/ucore_lab上下载
 如果是自己配置实验环境，关于understand软件的安装可参考http://www.aichengxu.com/view/26118
 熟悉Linux命令，可查看博客http://www.cnblogs.com/peida/tag/%E6%AF%8F%E6%97%A5%E4%B8%80linux%E5%91%BD%E4%BB%A4/default.html?page=1
-与实验相关的课程视频可在http://pan.baidu.com/s/1jGs9keM上下载观看
+与实验相关的课程视频可在https://pan.baidu.com/s/1oUDBNkueOcs_jv1RuCDCVg 密码：pc0q上下载观看
 
 初次打开虚拟硬盘，其中的Understand软件可能需要输入序列号，可以使用目录下的keygen.exe生成，输入进去即可。
 
