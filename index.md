@@ -14,6 +14,10 @@
 
 [06-Process Schedule-2018.9.30.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/06-Process%20Schedule-2018.9.30.rar)
 
+[07-Mutual%20Exclusion-2018.10.12.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/07-Mutual%20Exclusion-2018.10.12.rar)
+
+[08-Synchronization-2018.10.22.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/08-Synchronization-2018.10.22.rar)
+
 ### 课程参考资料
 
 [参考书籍](https://github.com/yankaixie13/Operating-System-2018/tree/master/Textbooks)
@@ -47,4 +51,8 @@
 ### Homework
 
 [Homework-1-Part%201.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/Homework-1-Part%25201.rar)
+
+[Homwork-1.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/Homwork-1.rar)
+
+[Honework-2.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/Honework-2.rar)
 
