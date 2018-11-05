@@ -18,6 +18,8 @@
 
 [08-Synchronization-2018.10.22.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/08-Synchronization-2018.10.22.rar)
 
+[09-Deadlock-2018.11.5.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/09-Deadlock-2018.11.5.rar)
+
 ### 课程参考资料
 
 [参考书籍](https://github.com/yankaixie13/Operating-System-2018/tree/master/Textbooks)
