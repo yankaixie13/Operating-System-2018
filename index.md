@@ -20,6 +20,8 @@
 
 [09-Deadlock-2018.11.5.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/09-Deadlock-2018.11.5.rar)
 
+[10-Real Memory-2018.11.12](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/10-Real%20Memory-2018.11.12.rar)
+
 ### 课程参考资料
 
 [参考书籍](https://github.com/yankaixie13/Operating-System-2018/tree/master/Textbooks)
